@@ -133,6 +133,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
  
   
   
+- [PingCode AI](https://pingcode.ai/) - A unified API for Claude, GPT, Gemini, and other supported model providers, with Claude Code and Codex support.
+  - **Tags**: `Paid` `AI` `API` `LLM` `Developer Tools`
+  - **Pricing**: Prepaid, usage-based billing
+  - **Contact**: support@pingcode.ai
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
